@@ -1,0 +1,1182 @@
+{
+    "Adjustable.cfg": [
+        "31e0c5a38936e315199327995f0ecb8c3491daa11e1ece8f22e82e2bd4da65a2",
+        1531
+    ],
+    "anim/anim.img": [
+        "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
+        10942464
+    ],
+    "anim/cuts.img": [
+        "2c14266a47364899b654c224571773483b1127e878ca49a86662af59ee3edc3c",
+        16029696
+    ],
+    "anim/ped.ifp": [
+        "69833bd6fc3a93a4985ad3cf32db7f1f3c29f4b71949507b8ad9ea2089ae5daa",
+        3529684
+    ],
+    "audio/CONFIG/AudioEventHistory.txt": [
+        "bdc80c1cb520ae10c7952af4d402e0a3802901eb724f44e9de6007fc8b810dc0",
+        114056
+    ],
+    "audio/CONFIG/BankLkup.dat": [
+        "b89a66ddef4e5da74c4c13abb38a9aa7985397bee45b00e080da89f07a1eee50",
+        8520
+    ],
+    "audio/CONFIG/BankSlot.dat": [
+        "aa7035f9c914cd3b73f9535b2794a10febeebfbcdb166d340d875093eab71e72",
+        216902
+    ],
+    "audio/CONFIG/EventVol.dat": [
+        "ad8bab3deff68a93787566dab34b33d37876ba9e15308386e2166837024059a8",
+        45402
+    ],
+    "audio/CONFIG/PakFiles.dat": [
+        "36bc8f4814d4ef4dc3b7c43ae5c26f0de1feeda1bc15cdf2250456d2927bc57c",
+        468
+    ],
+    "audio/CONFIG/SOUNDINF.DAT": [
+        "639b880be8c20dd35b2a8702f2ec466946cf8ed44b8f3fd0a74fb8342af16d99",
+        746760
+    ],
+    "audio/CONFIG/StrmPaks.dat": [
+        "03e32ee0efb3505d0cea13952370d24a417799b085946087c851060d4120dea0",
+        272
+    ],
+    "audio/CONFIG/TrakLkup.dat": [
+        "adf22fcdfe798c7ad59f1b8fbf6a71574fbf06f1ca39a074ad2b3163c341c0d9",
+        23064
+    ],
+    "audio/CONFIG/TRKHEAD.DAT": [
+        "6474abc1c02ed8647caca1c107e0d067cce2715021f9420c009c0f763ad1c0e4",
+        15506696
+    ],
+    "audio/SFX/FEET.osw": [
+        "d43473f63e8379f65be9eb9f43ca3218bfd7cc1769041f0a417b25da3f332336",
+        138118
+    ],
+    "audio/SFX/FEET.osw.idx": [
+        "13debe852688a01ff4e2f789f939747922e19ae59c59287b4f601095669e20d6",
+        1220
+    ],
+    "audio/SFX/GENRL.osw": [
+        "df07d84e39c4a0b1e0e050407ca3fd389d32a63c6298882e6e8b0401ffa2b420",
+        40981547
+    ],
+    "audio/SFX/GENRL.osw.idx": [
+        "51bf560c099a1b8f6f158c40e5a5622df465e914f34a0da7c590ac7501a5dc0d",
+        20868
+    ],
+    "audio/SFX/PAIN_A.osw": [
+        "b6e917e21c007e394b76b0d1f7121b5f1c6f397073de3554b8b56599104816e1",
+        3247335
+    ],
+    "audio/SFX/PAIN_A.osw.idx": [
+        "6f64edb08e2a7e0895a70a2467d6e848e2cffcb189adaf2d74a014189060ea43",
+        12836
+    ],
+    "audio/STREAMS/AA.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/AA.osw.idx": [
+        "0971a591a39cc7aa2ee6071e1a87b3571e708fc0446ec083068a075c9f396466",
+        1522
+    ],
+    "audio/STREAMS/ADVERTS.osw": [
+        "ca963094f2b6d8600e3a7ad5c1cb82794c739615f9dfd0e1518966406a5d8aab",
+        3516982
+    ],
+    "audio/STREAMS/ADVERTS.osw.idx": [
+        "d2cdf4c804cef5f74f9548b8bb2cf5cd72a7b86665d8b2e493882e50bb3cb998",
+        1591
+    ],
+    "audio/STREAMS/AMBIENCE.osw": [
+        "fbe8d0c10cf5af252496e2a5729efae6e0afe37004d5905d872cf6dcc83fe272",
+        22719112
+    ],
+    "audio/STREAMS/AMBIENCE.osw.idx": [
+        "d763e98e94b87349f748e02943a02eff06b8daac448b5da6f09b0f09db9c4e83",
+        924
+    ],
+    "audio/STREAMS/BEATS.osw": [
+        "fcc146dddf929869ae0d40bdb21d8b5463689a6f8b9c432dd028d907c9f432b2",
+        9415375
+    ],
+    "audio/STREAMS/BEATS.osw.idx": [
+        "1d3e87031cbaf9c1d7be0a33265d548ec39d4a3e8840ed8c6bdeea4e3b734c09",
+        234
+    ],
+    "audio/STREAMS/CH.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/CH.osw.idx": [
+        "9dcf1445dcd6145aeab790d5eeff737b7f085dde07e42091d6bf523b197e123c",
+        2994
+    ],
+    "audio/STREAMS/CO.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/CO.osw.idx": [
+        "c057f5a0eb6df6dec863e25561995cfb69afd1dfddd92c608f720254ca60a4c8",
+        3569
+    ],
+    "audio/STREAMS/CR.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/CR.osw.idx": [
+        "b6a7ef38f6aee88eb60c2d0500be46f7e8cac38b72c738071404640854f98485",
+        3592
+    ],
+    "audio/STREAMS/CUTSCENE.osw": [
+        "0fcbd6cb6aea4f51eddb8b9213ccd5cc9445422d4d4eeedb9c457b2bdc1d13a1",
+        301175
+    ],
+    "audio/STREAMS/CUTSCENE.osw.idx": [
+        "e7baeb71062f2e1c90e1f7c010d5106b616e59efb876b7524a31f6ca740b75ca",
+        3247
+    ],
+    "audio/STREAMS/DS.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/DS.osw.idx": [
+        "abe5af8acca600fc6ec041e35ccd1a3735ddaf78906667dab39a5542d12dee41",
+        4121
+    ],
+    "audio/STREAMS/HC.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/HC.osw.idx": [
+        "baf0fc96a4818b1499969853fb144c7a4ef2f1dfe171a7bd2559dffc2c7c15a9",
+        2649
+    ],
+    "audio/STREAMS/MH.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/MH.osw.idx": [
+        "6796adf0a3d204e85951924ba5792297acf8f67f2ce03cb66d3303b230b0d3ad",
+        3500
+    ],
+    "audio/STREAMS/MR.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/MR.osw.idx": [
+        "7c789c2faaf83ec6ae0fb281955926103a085cba02c349291e36d8dc1d6fe046",
+        3385
+    ],
+    "audio/STREAMS/NJ.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/NJ.osw.idx": [
+        "980e1a5145799c5bad42635c5b934562e0acb7e1146b79071734eaed48b711f0",
+        2994
+    ],
+    "audio/STREAMS/RE.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/RE.osw.idx": [
+        "292c0a3fb991236d2c951eb40c93136ea61641c1cab3f72a810eaf0a39cd233b",
+        3707
+    ],
+    "audio/STREAMS/RG.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/RG.osw.idx": [
+        "9d3e8370bb96c11927ad4785af68ebbae7bbee64ef213852655a0430424c1314",
+        3914
+    ],
+    "audio/STREAMS/TK.osw": [
+        "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        15462
+    ],
+    "audio/STREAMS/TK.osw.idx": [
+        "db3f6081c7d8c605e34b3daa7f7033f0efb335a0fc478944a7ba1b599c545926",
+        2327
+    ],
+    "data/360Default1280x720.cfg": [
+        "b26d40d280bf93dc685668b099c303b2a0700dd9f0460307d5643cbad70c6ca6",
+        10898
+    ],
+    "data/360Default960x720.cfg": [
+        "142128a657affbbe4dabbc2c992c58890cb8fa5157e72d95fbbe50c3194011fd",
+        10888
+    ],
+    "data/animgrp.dat": [
+        "012b10d891840c48e0f282fdef7700673a12fe6c568a7ac9127c21095808aef8",
+        3096
+    ],
+    "data/ar_stats.dat": [
+        "3f8a184d088dc25e166ff0bb067286b5dcac2398de21d3bb4e00b43956d31d25",
+        3593
+    ],
+    "data/carcols.dat": [
+        "fceb80d284413f7d540f35eaa28022b1284c6dbdb71cea2082fb54ac25260f5f",
+        14971
+    ],
+    "data/cargrp.dat": [
+        "196dc47c03225969aa95a0ef1e2a53bdbcf197223905a495fb96bf9ca08e8d01",
+        3909
+    ],
+    "data/carmods.dat": [
+        "674cd3e5e0f5393bbe5323b053efb57e9b3c67d37694a911ff065d7a7f1967f2",
+        8763
+    ],
+    "data/clothes.dat": [
+        "5fff15c81a5f8c32f4d3dff22ad6748c9b8c0a45af7b9f67e22fb2b9ae05c593",
+        5317
+    ],
+    "data/colorcycle-1.dat": [
+        "88956d6f24f9758427bf6271b7f56c9ffd4c4a8998199f62171bd398d29b5e88",
+        14903
+    ],
+    "data/colorcycle.dat": [
+        "4ff055b841a2dae577e5364dc47b8ae196c55abf4118f7546202f7dd232c2345",
+        14555
+    ],
+    "data/Decision/Allowed/Cop.ped": [
+        "d91e13fb6aaf0be786e32fd37a68cf0425cef9fbc23742222d31d1ff312a8150",
+        4908
+    ],
+    "data/Decision/Allowed/Fireman.ped": [
+        "cb9a75b87d6960e51a12a4d896f099e5ed1576d76d7946a0570f10e98872de54",
+        4435
+    ],
+    "data/Decision/Allowed/GangMbr.ped": [
+        "c2653aba07c5c04017b44797cc4f1d2899da9e4d36ac6420ca22b5600172f57d",
+        6194
+    ],
+    "data/Decision/Allowed/Indoors.ped": [
+        "53dc5665a42bd47d9dc8be8d7a2440b5722b10940186c000235213cb8c1d8fe1",
+        2809
+    ],
+    "data/Decision/Allowed/MISSION.grp": [
+        "1a97a3018d9a852b699beb1904af4ae8ed1b7aab5fe1742e59917fb29eda2af6",
+        2758
+    ],
+    "data/Decision/Allowed/m_empty.ped": [
+        "df0e18f0148152c98132381927b617140fc6e8967a68085cc630cbe734e0c9b5",
+        982
+    ],
+    "data/Decision/Allowed/m_norm.ped": [
+        "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+        4142
+    ],
+    "data/Decision/Allowed/m_plyr.ped": [
+        "261b87d08b49ce72c3f9d02201bae15889f2a9ff65798e704fcf53098fbd304e",
+        2000
+    ],
+    "data/Decision/Allowed/m_steal.ped": [
+        "635372cb7c36134f4bfdd1ae343763ad3d814db7b19fef7eb34a2ca48ed48ec4",
+        3663
+    ],
+    "data/Decision/Allowed/m_tough.ped": [
+        "99129a3281653e428cea13b6fb626d21bed6381849f92e11b5638f1f3c23687d",
+        3980
+    ],
+    "data/Decision/Allowed/m_weak.ped": [
+        "5e97f56b79986532d76d401a1929c1c3879bcae6377face62f0ed9976b28a6d6",
+        4062
+    ],
+    "data/Decision/Allowed/RANDOM.grp": [
+        "d4848b45f3fa6b8c9fb15b4bee0c7ee8b42a1a8ccc9e6bdfa01f1d5ab0522265",
+        4623
+    ],
+    "data/Decision/Allowed/RANDOM.ped": [
+        "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+        4142
+    ],
+    "data/Decision/Allowed/RANDOM2.grp": [
+        "4a3f855271adb3dc41a91a7595281fd534d64768596195037ccd1cd01318352a",
+        4623
+    ],
+    "data/Decision/Allowed/R_Norm.ped": [
+        "33175de3da4445186551bf2aeadacd4f706879cbbe47411c73fd228d41fdb30c",
+        6450
+    ],
+    "data/Decision/Allowed/R_Tough.ped": [
+        "fd8d95ea1b3915983380eb48efa124883fecd5069157c8673d0a111e7ecdb1c9",
+        6378
+    ],
+    "data/Decision/Allowed/R_Weak.ped": [
+        "41f15594c0c639475f904b3ee09474f8ceac9f504345f421cf6f740f8287e60d",
+        6289
+    ],
+    "data/Decision/PedEvent.txt": [
+        "c61a077262a419b15a14961341144a96795f45d49014deb6fa98aa0e180400be",
+        1298
+    ],
+    "data/default.dat": [
+        "3abbdd89a94c73c93efa95b1657e339ba25f51e84787ff63e5b5c443951fecab",
+        577
+    ],
+    "data/default.ide": [
+        "3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2",
+        4679
+    ],
+    "data/fonts.dat": [
+        "173185446d11a5490ecb80ba67d37995eaf11ab8a3f465b6bfd1fcdbc1aeae69",
+        3576
+    ],
+    "data/furnitur.dat": [
+        "d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a",
+        16480
+    ],
+    "data/gridref.dat": [
+        "62108eed8a03f4e61f16f83f750e54cbb894660a5c2ad104a086919dfbe13188",
+        1498
+    ],
+    "data/gta.dat": [
+        "72c851a304ca0304ada2708ecdb2fa5245a1906ca2ce3b0454dd6bb56b8d51ca",
+        1395
+    ],
+    "data/handling.cfg": [
+        "a9101c60ef0ba99816e16e9b1e2caad95a033a2e399fe9efe3432a8891d801b9",
+        43351
+    ],
+    "data/info.zon": [
+        "9396cf9b7bec5a797fa4614ee7ab578d910ed5cdd9d475adfb35801612ec8058",
+        28139
+    ],
+    "data/map.zon": [
+        "4f78672e3ee70a1f5e09cd9acebe23f0597a39e275bf493a1f1c29ccfd268775",
+        436
+    ],
+    "data/maps/asd.txt": [
+        "a239beb4b333441cd7aab2624b403c494489c32e03a9f1d9fd341b653148ab71",
+        1497
+    ],
+    "data/maps/Audiozon.ipl": [
+        "43c552f2da0491b476778edaa6f233076fa6c35cf31773d30e9033b450c8d421",
+        10802
+    ],
+    "data/maps/CR1.ide": [
+        "2f8e0895d146de2a5a09aec26c04a8a7d5c478668dece93264e972d8fbc1b684",
+        13993
+    ],
+    "data/maps/CR1.ipl": [
+        "862bc707d3c2e515ad44f4854295345444b8fd7f399bfb657a967c4bd35417dc",
+        26944
+    ],
+    "data/maps/CR10.ide": [
+        "5e30c0fae4ec28e6866dc901e8b471aa5b742fe411a3744f303d2cce4eb67349",
+        453
+    ],
+    "data/maps/CR10.ipl": [
+        "6f7e47d7b24493aa28b7baf385b88170242651bf6f043a5ece53f25fcaa88955",
+        192645
+    ],
+    "data/maps/CR11.ide": [
+        "da8c64b530c9ce7030f8ccd0dfeb5ae6a87c97d1a92873dac57bb5085fae4686",
+        114987
+    ],
+    "data/maps/CR11.ipl": [
+        "784191c987c13cb194d17f37396681790636bfffa79252d74b86930d75889b76",
+        265024
+    ],
+    "data/maps/CR12.ide": [
+        "0af6c2bb1343d7bb514b5b8cdb911c3d20feb5c807d90622938259a6470e756d",
+        14690
+    ],
+    "data/maps/CR12.ipl": [
+        "d48f803f3c2bccb7200c53b800e49a0727e2ca6594ab5418a504173a4cc240d7",
+        29634
+    ],
+    "data/maps/CR14.ide": [
+        "7e990a57ab472633224c21c6313410dcc7ba72ca8814abe5ca002abc03f0418a",
+        12926
+    ],
+    "data/maps/CR14.ipl": [
+        "c08e0e2b6ce81c05291f0d63296add5eef980062bc43a42dd591053741f7f895",
+        153810
+    ],
+    "data/maps/CR2.ide": [
+        "5d8c500c29816109af9284b7d94932cb4df175341e6072014c589fca4c382d32",
+        14040
+    ],
+    "data/maps/CR2.ipl": [
+        "f7e0ee710c46562892d6d9a44fb83235376de96646a955a86f2d50885cec31df",
+        20053
+    ],
+    "data/maps/CR3.ide": [
+        "b83227fd39a46277b108a392507817b83abeee0f76c8982cd1dfd0cea1145784",
+        7704
+    ],
+    "data/maps/CR3.ipl": [
+        "48470073e2fe06235734996f2b886ae9f4b65061021da28e5a32e61976cc2076",
+        14822
+    ],
+    "data/maps/CR4.ide": [
+        "986c772514dabf5f21bf971ae37f438784a3543ef49443433ae6af7745a3496e",
+        13644
+    ],
+    "data/maps/CR4.ipl": [
+        "467bde997234361f526aaa961cfca81901d55ccb265328a2ac4db3ce55fe59db",
+        18988
+    ],
+    "data/maps/CR5.ide": [
+        "8aea510b1af8116f25959685c36984bd065f74a3f267b7582aa492a391d7a7e1",
+        10143
+    ],
+    "data/maps/CR5.ipl": [
+        "4b40381624094a7ea11b1863c9fd973b6a01f01f1412e6f712390ecaf3331a22",
+        15093
+    ],
+    "data/maps/CR6.ide": [
+        "ac33fbace70b13a10a1249418d1411b0361fa194114a3753904ec306ff270d86",
+        3047
+    ],
+    "data/maps/CR6.ipl": [
+        "258c90a2b2180fa4514f6d48299afcc2004e4d87d1a2ec4ddc0b69913d8e859c",
+        35723
+    ],
+    "data/maps/CR7.ide": [
+        "565c9505eb2ce28418ef73b4cea4779ee39904db99368473bcf35c000aa2d4c3",
+        2785
+    ],
+    "data/maps/CR7.ipl": [
+        "f41b68a9690dc34430de02e74d78a8d299a925d9091eafb888bb8e738705fb96",
+        3688
+    ],
+    "data/maps/CR8.ide": [
+        "80400eb7b530894bf5341b79541b54ef71412ef0f3c92f924da92697f4664724",
+        58055
+    ],
+    "data/maps/CR8.ipl": [
+        "02d233044e7c8f358f9e6413c94b210614c52489b8b7ef3738b19c75754068ae",
+        268864
+    ],
+    "data/maps/CR9.ide": [
+        "68d30079bb1a1c63864179ffc6977334dc90df86ef0066f1c970fdfb5f13405b",
+        570
+    ],
+    "data/maps/CR9.ipl": [
+        "79b550e7a53d1202cddea0ee901da693a7ba156996cca0037010522c7b1e4b15",
+        284062
+    ],
+    "data/maps/cull.ipl": [
+        "a75be13e83f5255e5cc013302b2233b7059499095b06acfe3f66d72f6fa8413e",
+        104318
+    ],
+    "data/maps/generic/barriers.ide": [
+        "5b69700e5dd563e6b8b120f881e459cd7eb10550ecf5e8c1cd57b47577378223",
+        1437
+    ],
+    "data/maps/generic/dynamic.ide": [
+        "b02afa758853d546b45c559d1ceff5ca84920338d45a6a497c0dd8ec958cfa29",
+        4613
+    ],
+    "data/maps/generic/dynamic2.ide": [
+        "a70724204fb97a7761a7c83b1082a9d3e94ff06d43344f42a06161be16b3dc7e",
+        10512
+    ],
+    "data/maps/generic/multiobj.ide": [
+        "521445080cb80e11bd17576c70fca9023c69007581f65b78e437ae843e8f78f1",
+        5020
+    ],
+    "data/maps/generic/procobj.ide": [
+        "38b1b15e73891d130a85730d7ebfb0e3b649ff2ee5b8e414eccd68318b9246a0",
+        4755
+    ],
+    "data/maps/generic/vegepart.ide": [
+        "2455e53f4e25a663e4e9806466ce921cc3df1d8e70c2a57bb7557be593f27aaf",
+        8075
+    ],
+    "data/maps/interior/gen_int1.ide": [
+        "470d6c371015631075458870438953f1f581a5e3aadda6d6760bfb0cecd830a1",
+        2747
+    ],
+    "data/maps/interior/gen_int1.ipl": [
+        "33129ba14fa76515909906c0dc2cb08f5aed921643c39814638ad9267ab0a614",
+        21074
+    ],
+    "data/maps/interior/gen_int2.ide": [
+        "e1d8a2247ba9da1d242baeff95169b4982ef7289cff626692c25a2785e308544",
+        10941
+    ],
+    "data/maps/interior/gen_int2.ipl": [
+        "a779e8c280cad2fc2d8a0a107336a7ca8e87007c2d1db36f6c62c07eece1e799",
+        1683
+    ],
+    "data/maps/interior/gen_int3.ide": [
+        "a0762a373a240c6278aeb624eadde85312e7f39ecf14891df07042972d0553aa",
+        3252
+    ],
+    "data/maps/interior/gen_int3.ipl": [
+        "eacf70fbd06fe19c9dc028f81eedbf582a2694db0a73d33b5f34ecd70e8b7afb",
+        2091
+    ],
+    "data/maps/interior/gen_int4.ide": [
+        "50e9826c69e68258966068aa37f7185ef76776c276f61f1285bcbeda4d8c6e0e",
+        2323
+    ],
+    "data/maps/interior/gen_int4.ipl": [
+        "5769ca2f39579ee0c43b31658e41b7af3264e4b54e76c70229a4b4fe5916e6e0",
+        1185
+    ],
+    "data/maps/interior/gen_int5.ide": [
+        "88ba64416b2c8c430761790ff080ebf43077ba338188c94a78cee5e4f73d2d38",
+        4682
+    ],
+    "data/maps/interior/gen_int5.ipl": [
+        "192ba7b31a68ae86a9767d40f7b3918b5da70dbb4445dfe780ac135ae94221a1",
+        2988
+    ],
+    "data/maps/interior/gen_intb.ide": [
+        "bd694f4c11fb8ca6171d8e7e61a3b71ebdd3e7885667d8e77ae240dcf0c6ef6a",
+        5459
+    ],
+    "data/maps/interior/gen_intb.ipl": [
+        "76facdeb795adfcd9642c3beaa0d931d90682d12630f2b7ef242b09c4ac14cbe",
+        1626
+    ],
+    "data/maps/interior/int_cont.ide": [
+        "715a381b2e4455594733639ef7a7a0fcde15c0f6d5ac6d8951705fe6e0eef7dd",
+        385
+    ],
+    "data/maps/interior/int_cont.ipl": [
+        "01d68d96bfbfda67102141a9411ccb64499a8f7a50a641220ce7b22012a540a7",
+        910
+    ],
+    "data/maps/interior/int_LA.ide": [
+        "369dcb928bdc5e6d8649b07df9b3cb895ba9a9dba805e94d6ff8201a9d633646",
+        6004
+    ],
+    "data/maps/interior/int_LA.ipl": [
+        "6daed19fdfa6f325468668a00065999bef9a8e4fff03039e552b8f4533a74d2d",
+        1312
+    ],
+    "data/maps/interior/int_SF.ide": [
+        "384d9de6e3a8ff1c4248fa11261863dee3748b3553f7722ed946a4d8aca2a806",
+        1260
+    ],
+    "data/maps/interior/int_SF.ipl": [
+        "ae36a8df0e4c502af96c661a105b28a7e08cf8a71774d07fdc0b63a0ab924fe2",
+        1334
+    ],
+    "data/maps/interior/int_veg.ide": [
+        "c3ad8ecb96b83f2c728ee62f61f4bdcb92dc9ba65f4d1c876704167c07ccef34",
+        4684
+    ],
+    "data/maps/interior/int_veg.ipl": [
+        "115974e58e84ac9772806c8f16a2e322b8b7ce14198480e27f0505872e943f2d",
+        5299
+    ],
+    "data/maps/interior/propext.ide": [
+        "07ff34faa2883f97fb1c538e45e92b7951463eeb8eba6d053432984f4e9abe99",
+        2340
+    ],
+    "data/maps/interior/props.ide": [
+        "5ba09718a9c248f83b82d306efbe95b7be5b7f7cdce6b2b17d5a5a11aa0a6b3e",
+        26326
+    ],
+    "data/maps/interior/props2.ide": [
+        "0e1f4ac0e3cd41af8d8ea83ea37473e91091c63bfdeff836bec40d9dacfbd5a6",
+        21174
+    ],
+    "data/maps/interior/savehous.ide": [
+        "48d840b6e18dee698982158f70f30b3c0eb406286ae9e7e70744061c86abf19a",
+        1724
+    ],
+    "data/maps/interior/savehous.ipl": [
+        "eb7b018ba03f934b14fa9ac11f7e151173e669d1c7f69a4d162c0a88a092ec38",
+        2959
+    ],
+    "data/maps/interior/stadint.ide": [
+        "e2d66db082e7d439472e71ad995bde42b91a9a382eb53f6369e46c1179778307",
+        2851
+    ],
+    "data/maps/interior/stadint.ipl": [
+        "f0720fd785069839b9b28a87ce80ede2cf8d4beb58bb009bcd50195ee54a962a",
+        6299
+    ],
+    "data/maps/leveldes/leveldes.ide": [
+        "5c4cda0261a8302acd997679b3bbe604754423a7b0ce30707bfb81d7f1d569d4",
+        360
+    ],
+    "data/maps/leveldes/leveldes.ipl": [
+        "a023d0150ceb2b0d571901ca1d22a2a1377337ac874d593a574eb7426bed65f2",
+        165
+    ],
+    "data/maps/leveldes/levelmap.ide": [
+        "c5d635c1ebd2fdd9f85c990dcf51e37f73ad8bc2e759dd5daa8ab13f45dad74d",
+        3194
+    ],
+    "data/maps/leveldes/levelmap.ipl": [
+        "2bacd4d04c78e17e9f34368352c5220e09cbabc45d080d3cd7005097f9d4c7d5",
+        4675
+    ],
+    "data/maps/leveldes/levelxre.ide": [
+        "330612dcd0250927a6931629c78d899891f7462306058637a2ea71bd2981fce2",
+        9897
+    ],
+    "data/maps/leveldes/seabed.ide": [
+        "5c57137733b59ec7455e821947c9fa5fb1051f69c9499a2c916ef72b77e01256",
+        12039
+    ],
+    "data/maps/leveldes/seabed.ipl": [
+        "4f8c7c66864c454a8546257beb54a34a1397d2d637b2c77c70cd16925ec2ab21",
+        23342
+    ],
+    "data/maps/new 1.txt": [
+        "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        0
+    ],
+    "data/maps/occlu.ipl": [
+        "b79d16581e954255ec06394b4c1ad6303ec6ed9eeb79a44ae51764f8d9a708c7",
+        1012
+    ],
+    "data/maps/occluint.ipl": [
+        "23d5054e2f69d052c305c21b860c40cc135b4509d3b1aa84ca974716b25fefe0",
+        2338
+    ],
+    "data/maps/occluLA.ipl": [
+        "92f9a47f2cf09be813f5cbb94152fad4afdad66da85d0834b5c54179391d09eb",
+        35956
+    ],
+    "data/maps/occlusf.ipl": [
+        "c547a2eab51fcaa8c100ba7d6a12cf5e32d9c547756494e2fa664589450eacc3",
+        16114
+    ],
+    "data/maps/occluveg.ipl": [
+        "d5c59492e23c14b56409ddeaa20ee95e2c57d4225829b3c94519b52b8d6d8427",
+        17944
+    ],
+    "data/maps/paths.img": [
+        "397f25f5a9873f281b3cfd752faf4806e505faa3fc706486886b31a35be1e2bb",
+        135168
+    ],
+    "data/maps/paths.ipl": [
+        "1b8b896eda941aaf31391af571c52d371f5d7617cb2ccf44d148f80e464142ea",
+        2658607
+    ],
+    "data/maps/paths2.ipl": [
+        "70a6488bf2c39e486262c6396164c7135b3966797d978d49dcc4788d6242bb1d",
+        2292241
+    ],
+    "data/maps/paths3.ipl": [
+        "50a8a882a36c6a39fdbe417000e27579d0f37541df3a0d54bc306c5a70316c5a",
+        2428066
+    ],
+    "data/maps/paths4.ipl": [
+        "9e770e5ce9724b94ca74dd9256534e233f0b37b0ff72d0001dd1cf93fe5f9f25",
+        253014
+    ],
+    "data/maps/paths5.ipl": [
+        "67fc1be4e28dd4837d7d3f369e0d8b1ceae67f1e507959fd2c38cbce4e15949c",
+        457678
+    ],
+    "data/maps/testbed.ide": [
+        "03d0dc765f317166f9a766386b26bdfd1ae50f8730763d557ed358b6f1c7e438",
+        54
+    ],
+    "data/maps/testbed.ipl": [
+        "05c075a2f0c5f510f73236b0a4b69ab54e4334056cd1f43eff70a29a8bab7a7b",
+        73
+    ],
+    "data/maps/tunnels.ipl": [
+        "62479143348a7fb579ebd8d45271afe07aed7b639a90c4933036f12d90853dfc",
+        3230
+    ],
+    "data/maps/veh_mods/veh_mods.ide": [
+        "986b0b1adca1a4e5f31cf4550f923e1979cf324e4899591c6bdcc16d48ff35c4",
+        7357
+    ],
+    "data/melee.dat": [
+        "d82430a32f31c239c38e1db8c83589307fb221fce417962993a8c63cb1d3da4b",
+        6306
+    ],
+    "data/object.dat": [
+        "c963c980d90891cbb4ab81a6a8daa294a5813cba46fae4b1302951c32ca472d8",
+        126118
+    ],
+    "data/paths/carrec.img": [
+        "207d3d1cbcf07744dd6b3110d977d3838e53970d785e465dcada3dee5e08c522",
+        2357248
+    ],
+    "data/paths/ROADBLOX.DAT": [
+        "2da412adc28eefd4b406df53e0ab2693eb564d8dfeb73f31ca771022280342ef",
+        1304
+    ],
+    "data/paths/tracks.dat": [
+        "81f9ea0e731761f5388483e94132552d9dce8a3b3e015485b2cb902de2addb6b",
+        4140
+    ],
+    "data/paths/tracks2.dat": [
+        "f30af4dd0b7948321db633d4964898961b4ae97f5c29b6ca1cdcb9b77e6f4985",
+        1892
+    ],
+    "data/paths/tracks3.dat": [
+        "b8ed468ae2aa953250f5f9bcf1ff34ec7a413cfca63357a6a531f37dfb9b5767",
+        8328
+    ],
+    "data/paths/tracks4.dat": [
+        "e8decea200f701498cf1414a4d6accb1dc6fdeb147ac30cd3500e0ae27cdcd69",
+        18347
+    ],
+    "data/ped.dat": [
+        "fa4a2636ba772080c75d0986379a862c4c2f7cf7bf6c1550557f3557236b450e",
+        1276
+    ],
+    "data/pedgrp.dat": [
+        "157f429231421f37d44b2b4890b14ee0537f7f32a8bdf71a140340ac04770222",
+        5792
+    ],
+    "data/peds.ide": [
+        "ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92",
+        33401
+    ],
+    "data/pedstats.dat": [
+        "280c12e4f8b36f6e68b68323fb3d01d853b9a91bf4497964ce5159abfd84d684",
+        3604
+    ],
+    "data/plants.dat": [
+        "d989d13c540be6e8c7e381ac1785a61a99ca8dc97002ed9013a0312b5dab08a8",
+        9887
+    ],
+    "data/popcycle.dat": [
+        "7adf28ff336d652a0d85cd8c9cb37379755e7f68a00b3637ea4afc4d4184aac7",
+        127108
+    ],
+    "data/procobj.dat": [
+        "b41895965d087b90aa8b11a66849002a08256a27010209b2b534e0f4438d95c5",
+        10019
+    ],
+    "data/script/mainv1.scm": [
+        "0da4941df1e981e8011d81e99824d59276e64294c50d2e8a1409f6e0a458f3ad",
+        18398
+    ],
+    "data/script/mainv1.txt": [
+        "95b65a0c0af2f4941bef0df2395bdbf93c4a8f61bb8ef05b629f438baeebc0e5",
+        3690
+    ],
+    "data/script/scriptv1.img": [
+        "99053a8ebc73015ca554f20e74f46b910a356049c2ec624afbcae8607add211d",
+        4096
+    ],
+    "data/shopping.dat": [
+        "93e640e29049ee9985185b7aaf1b2f3d11f8540ff8791a751632d6ba90d0bd4d",
+        46875
+    ],
+    "data/ShopUVs.dat": [
+        "4b74b27a88807e5fe2ac9ec7d21dbd1198d1f3447db2d1bc745bf7a82d487183",
+        30509
+    ],
+    "data/statdisp.dat": [
+        "b0a95199c27656c43f3f3b0d7bb302649c7605a563634cdf81116929b89e04ab",
+        7292
+    ],
+    "data/surface.dat": [
+        "09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90",
+        576
+    ],
+    "data/surfaud.dat": [
+        "5a25dfb38743e42b46f7979941f9fa8a1201788e91f991975dfed997aa4db605",
+        6530
+    ],
+    "data/surfinfo.dat": [
+        "431b95d4dcb20ce5258f7d939902c56d50fb4ee68b30ed7a044919c666291b55",
+        28106
+    ],
+    "data/timecyc(1).dat": [
+        "5d07a10ae682fb40cdeeac2130d03854525e732ff8eb9289ad02fca776ec1e88",
+        38949
+    ],
+    "data/timecyc.aaa": [
+        "8c369ea18e96c5d8a2058754bd7be0517d800e8d51ae466e83c13e04c3509500",
+        38453
+    ],
+    "data/timecyc.bak": [
+        "4a7342c4098b020cebd68c3784078532a23167271f6097dfa0daaee11fd63f0e",
+        40347
+    ],
+    "data/timecyc.cfg": [
+        "5d8b5c9dee3a6d09906bf659a2bd411dd368c831f38b612dcff72f74e2ddf281",
+        39751
+    ],
+    "data/timecyc.dat": [
+        "86b7e5b850523bea108cf46b4a173e752ead1bae44283d256c1369951bf93de8",
+        35625
+    ],
+    "data/timecyc.two": [
+        "4a7342c4098b020cebd68c3784078532a23167271f6097dfa0daaee11fd63f0e",
+        40347
+    ],
+    "data/timecyc1.aaa": [
+        "110b41de66ba519b6f41b7a1a6a4b19ae10aebcffdfbabbeb229dc5b7d334b74",
+        38826
+    ],
+    "data/timecyc1.dat": [
+        "110b41de66ba519b6f41b7a1a6a4b19ae10aebcffdfbabbeb229dc5b7d334b74",
+        38826
+    ],
+    "data/timecycp.dat": [
+        "34989779a9868a0e54f64edb2b5813d65eabe18f1ecf01bcbb9188a5a6964584",
+        40520
+    ],
+    "data/timecycp1.dat": [
+        "34989779a9868a0e54f64edb2b5813d65eabe18f1ecf01bcbb9188a5a6964584",
+        40520
+    ],
+    "data/TouchDefaultPhone3x2.cfg": [
+        "59704c4caa1fe09942708ac9ae1e35c72446664e3e817c602b79ae3ca754b8df",
+        10912
+    ],
+    "data/TouchDefaultPhoneWidescreen.cfg": [
+        "8b5f1208d4a178c631588797d370dda8a43095d09360987cf5b5d90b4d324f03",
+        10924
+    ],
+    "data/TouchDefaultTablet4x3.cfg": [
+        "1e3fd9c4bd4ea8093e8fae76243a1abf32c694be481139c32e133666c90acb29",
+        10926
+    ],
+    "data/TouchDefaultTabletWidescreen.cfg": [
+        "c728569e368244dc777764cfcc689aeff81fdbd2b1e1d2527f9ec49ee8d051bf",
+        10923
+    ],
+    "data/txdcut.ide": [
+        "68299b02ec1f00da7a93a400742c9f8edf3b776cf339431228af969f95249055",
+        478
+    ],
+    "data/vehicles.ide": [
+        "d7fe4f776f4a2b4aebec37e9aff8292b86cbaf3d36b3887f6923e93007313f13",
+        21099
+    ],
+    "data/water.dat": [
+        "3e68e6b918fa3f79a50fd7554ba9bc14c1a8b325faece4ca78dc647cc4239349",
+        41070
+    ],
+    "data/water1.dat": [
+        "c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68",
+        60063
+    ],
+    "data/weapon.dat": [
+        "3af1d40aa8efa67223a8160fadb0749dc9e920dbc94579c55f9f1826a47b27ce",
+        11602
+    ],
+    "GTASAMP10.b": [
+        "0f86d8b1cc81ba7f2d2b9cdcdf7d7f2ddaeed709b4d6cafdb42fcf0fbf8061c2",
+        130000
+    ],
+    "gtasatelem.set": [
+        "a19d34da21072bf9355ba178c0ef7ab2118a378e3f1a7a4686c17e1c2a423315",
+        392
+    ],
+    "gta_sa.set": [
+        "69f6d4482bb231fb81b8fe63d6e5e794cb5010e4ebcf582cf0d86ea58fdf1aa5",
+        159
+    ],
+    "models/coll/peds.col": [
+        "d6faa88b9227e6f6fe286f69cfd8d7348229bda267b21125b7daea4d3dd23d10",
+        21477
+    ],
+    "models/coll/vehicles.col": [
+        "4b6fa3aacf7d8be7aabf2e7048b5d7bd9bc89991b13f4f3d7334047a4f5359cf",
+        1096
+    ],
+    "models/coll/weapons.col": [
+        "389a5656e0496486e1c546e1e8ffd5399c1563c717f8238dcfdee3b6756903e6",
+        560
+    ],
+    "models/effects.fxp": [
+        "95c1915d39fd8df2292f6ec78b9476d4b3f86a65af5c0c0d222b6534adf44679",
+        616708
+    ],
+    "SAMP/crash.log": [
+        "2c5bc7012a36ec85abb2e19fcee632c46e412338094255e5cb2949b910f7fd74",
+        6970
+    ],
+    "SAMP/crash_log.log": [
+        "da391b3ba1fce5c87bffa96a62c89b193ad62845aaaf8c83d76a35547b87b253",
+        57511
+    ],
+    "SAMP/debug.log": [
+        "0a76ab7512b2ea6a496356969b6272214e7e059b5f22fd74170cd396467fe524",
+        548466
+    ],
+    "SAMP/fonts/arial.ttf": [
+        "df70597f0bdf49da3af270138f8a34396e4f5618c671a1db3480e626f38aaece",
+        352224
+    ],
+    "SAMP/fonts/arial_bold.ttf": [
+        "ea0575ccb080dbe62c4b38b95f2beada3036c35a922542c5edba523b9ad56f07",
+        127004
+    ],
+    "SAMP/fonts/sampaux3.ttf": [
+        "3adfe84498e8951e61ece57ad08de21b95d162697517291564ae6ef3a8790c1b",
+        11544
+    ],
+    "SAMP/gta.dat": [
+        "72c851a304ca0304ada2708ecdb2fa5245a1906ca2ce3b0454dd6bb56b8d51ca",
+        1395
+    ],
+    "SAMP/main.scm": [
+        "29218953b0d6dbb3bff981435fbe061552a5e35a10a795fa79ea213a6c4101af",
+        18353
+    ],
+    "SAMP/peds.ide": [
+        "ffafa3844474bae2b5b5991a773933acd42d3a44d140f34d9d13321112bb9ed8",
+        36369
+    ],
+    "SAMP/plates/ru_font.ttf": [
+        "3f4548e9f1764f95bf7507cff920d6d2a9b4b103b98feda4cecf964133018807",
+        233076
+    ],
+    "SAMP/plates/ua_font.ttf": [
+        "a779505c100f727f55c7a49b271f2e7db60d737b98b9d2eeae0f0feb9250dc68",
+        233176
+    ],
+    "SAMP/SAMP.ide": [
+        "4c97442930dcb7efc927737877c6987659fc1b43c02ec2993d01b403cd3bd96b",
+        89443
+    ],
+    "SAMP/samp_log.txt": [
+        "7f5301f257b9e143c8addd56e0dafabe3df10266a9a89c6769f093de8f3d5fe7",
+        31827
+    ],
+    "SAMP/script.img": [
+        "99053a8ebc73015ca554f20e74f46b910a356049c2ec624afbcae8607add211d",
+        4096
+    ],
+    "SAMP/settings.ini": [
+        "421419c08a7de9429a9a80227dc9eda68a9c965f3a02c553923e8d9b3a2b8845",
+        1852
+    ],
+    "SAMP/vehicleAudioSettings.cfg": [
+        "baa0f28905ce3a2d1b508aa93d107f5dd42701ba7c52bd5d35c131db90449855",
+        24777
+    ],
+    "SAMP/vehicles.ide": [
+        "17b46f420e9445db062550136ee0f5a690edd6f091be901470e6b1daff273a0f",
+        21099
+    ],
+    "scache_small.txt": [
+        "0d5ed61fbb05c745b83925b5f9f1693e892c1b521a2920a968152f63bef032de",
+        1010
+    ],
+    "scache_small_low.txt": [
+        "c1b61662bfb677ceebfd4edeae92c8c69d7c87bea727a647c8152c9a70597e93",
+        943
+    ],
+    "stream.ini": [
+        "6e318dcf3aec279851d45876c37ec664c9e70f34084cda17470409697adca0a4",
+        199
+    ],
+    "texdb/cutscene/cutscene.dxt.dat": [
+        "f48bd34c47a72ddf189c3334c8d56109cd8e06615004e051da0a6945709ccf17",
+        5731070
+    ],
+    "texdb/cutscene/cutscene.dxt.tmb": [
+        "a02e47b792da67977141eb480f3521cae6b9a0db897b48de77e627e995a6b6ac",
+        19440
+    ],
+    "texdb/cutscene/cutscene.dxt.toc": [
+        "0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6",
+        1628
+    ],
+    "texdb/cutscene/cutscene.txt": [
+        "ed99476e18c770ed5e8c10b4873131c258d2c15ba900c73109283016efd17bd6",
+        23784
+    ],
+    "texdb/cutscene.img": [
+        "2c14266a47364899b654c224571773483b1127e878ca49a86662af59ee3edc3c",
+        16029696
+    ],
+    "texdb/gta3/gta3.dxt.dat": [
+        "782d63e422396aa6290de423fe44efe2bf2aec74253311aec76b9303dcc82934",
+        838139774
+    ],
+    "texdb/gta3/gta3.dxt.tmb": [
+        "7893100ee3e2bc8eaef362c47e643ba9c7cf6fd86f4384ed995bbdbde8d977ff",
+        754012
+    ],
+    "texdb/gta3/gta3.dxt.toc": [
+        "83b1a322863f44e59bad3d6e4908391104d2f794e22492fb4778e4a674dac32a",
+        42436
+    ],
+    "texdb/gta3/gta3.txt": [
+        "e1fd0cc81fb6b19b4a950bfbaf24186b7298a0f309890636a4cefc70b9b350e2",
+        601747
+    ],
+    "texdb/gta3.img": [
+        "06a18a828db4e80a5dc7b967d83589d7df3ddd10791ea8a2b9012ae7523005c9",
+        935602176
+    ],
+    "texdb/gtasa/gtasa.dxt.dat": [
+        "95349ae637c43ddc0cb5ec97f7bfa3d188d6bc50913240bcaac6a59814369706",
+        495532
+    ],
+    "texdb/gtasa/gtasa.dxt.tmb": [
+        "3618ef2caf8bacce4dbcec48a7811180d1ad3672594253a6193d87af89c0e6e9",
+        3264
+    ],
+    "texdb/gtasa/gtasa.dxt.toc": [
+        "40a6a98fb9b24ea0dc7470ceda5407c5bc34e2aa79c35f35d7d2bb82ed373d7d",
+        52
+    ],
+    "texdb/gtasa/gtasa.txt": [
+        "942a027014429c29bb14bbc21292507cb3c30f69c79ca094ec5725ff4402f897",
+        836
+    ],
+    "texdb/gta_int/gta_int.dxt.dat": [
+        "bdd9567f66ce702ede1eef9a4dfe5b34278c2e8686296600ed05b3da6a131809",
+        321774338
+    ],
+    "texdb/gta_int/gta_int.dxt.tmb": [
+        "efa556efb889bf4eaae36aed8897d71bd8141cef182ffc197c98a4eee8fef06e",
+        543040
+    ],
+    "texdb/gta_int/gta_int.dxt.toc": [
+        "7c52bec221b7f68a4fa0f4028442f6c9f1528fd32f00c9909faaf77bd5cf6c37",
+        40972
+    ],
+    "texdb/gta_int/gta_int.txt": [
+        "3ae51815a97ec4bec623dc0e2340c64af96b6992b9ddc5e3149f29789f4cb3ca",
+        567770
+    ],
+    "texdb/gta_int.img": [
+        "4d0b6517f4968e7e74960e7f1e227294f10ec45c590c8b8612892335f033a2c7",
+        7421952
+    ],
+    "texdb/menu/menu.dxt.dat": [
+        "d4e2e3454e18a2013ecc12707deb4334fbc87b3353279327704dc74bcd237314",
+        7799478
+    ],
+    "texdb/menu/menu.dxt.tmb": [
+        "d2b94349457957a1e396a6d2735366f1161b628a797178c7edea4d15230d6dec",
+        860
+    ],
+    "texdb/menu/menu.dxt.toc": [
+        "d408caead030999dc56e7d699de75d28e3d34ca9e6a309fecf12f835d9701518",
+        176
+    ],
+    "texdb/menu/menu.txt": [
+        "5927c3133b949cbc95486f7a814af1fdb6695761741b9ba5a5766ccfe50f2ee5",
+        3256
+    ],
+    "texdb/mobile/mobile.dxt.dat": [
+        "918fe287af2d116523bc5862be9b720f8b9f328aa3ae7994f471b604f9118339",
+        21415694
+    ],
+    "texdb/mobile/mobile.dxt.tmb": [
+        "2fd3e9d24f8d19fcc4f07777d8031e7f88ae2fae6efbf858b839caeec714219b",
+        17828
+    ],
+    "texdb/mobile/mobile.dxt.toc": [
+        "24924ecb7ba615c88157ef259836bfec1c97ba86770e020e207056b7a10ef94d",
+        792
+    ],
+    "texdb/mobile/mobile.txt": [
+        "d38a207ac25c056b0ad249b76f5f98a39ccc9d6a784e678ef3551f0b0118fb7b",
+        12682
+    ],
+    "texdb/player/player.dxt.dat": [
+        "0ef2166249ad92f3329d2818b83bb091a083614a86dfc7b51cfe786f4db521ca",
+        6569414
+    ],
+    "texdb/player/player.dxt.tmb": [
+        "c5a2a096fd89c2117bbd78b23950893194d24a747228e57508249d32ee5a8a05",
+        6940
+    ],
+    "texdb/player/player.dxt.toc": [
+        "0806e857b570f655a57507e90a862afd7f850536128d11d2a94204306ca41192",
+        1580
+    ],
+    "texdb/player/player.txt": [
+        "ed28adfe563b63f296a7b92f157e0ab859fc5c0791cd33d543c089d224fccf15",
+        26928
+    ],
+    "texdb/player.img": [
+        "8283bef75a863a98198ad6b1e78b082efcbc46d4b5015a69e35c78f4500149df",
+        16412672
+    ],
+    "texdb/playerhi/playerhi.dxt.dat": [
+        "16f48f03270d91d65d2f84b1b321fee066ddad49fdba2ae433ed48e868fa16cc",
+        27658902
+    ],
+    "texdb/playerhi/playerhi.dxt.tmb": [
+        "e6252f7677f9eca3bcdbc4f6fd02c927c3e337f73e9d90391f51fe53ecd2bb79",
+        6940
+    ],
+    "texdb/playerhi/playerhi.dxt.toc": [
+        "c68c8eea457dee5f78b257db0bf867fbde5ef85d6d72216c2c8e8082c7e82979",
+        1580
+    ],
+    "texdb/playerhi/playerhi.txt": [
+        "c4272af0a049ed188fca88127d3b91aa01dd6bd4ace3a7a7383fb06aaebe6abd",
+        27205
+    ],
+    "texdb/samp/samp.dxt.dat": [
+        "22652a165ab5155c21778b512ef3a72936026fe4e64e47ddff74834bbfafe06b",
+        47839764
+    ],
+    "texdb/samp/samp.dxt.tmb": [
+        "2d02b90e17cba92f9cc60ae7ae4a7d2268e32989bacc0dd420b769d86de5ecaf",
+        21328
+    ],
+    "texdb/samp/samp.dxt.toc": [
+        "30a5396dc2e4ed46ee37f737f6f90bf7b51678a2c9c93cfabfbc45d37a3f4c04",
+        6196
+    ],
+    "texdb/samp/samp.txt": [
+        "a87908a50ed25972e6a1fe4d4809ad343a81d9a877a930ec734da8d893366328",
+        85550
+    ],
+    "texdb/SAMP.ide": [
+        "15ebd05ef1357b2c41b9254daffd1eea5146076ae70c751d0a2aec5813a5f753",
+        89400
+    ],
+    "texdb/samp.img": [
+        "be55fe6bb9a7c051fa59e720d51597ca98fc3f0c719fce8d390108f2f2e708d3",
+        35373056
+    ],
+    "texdb/SAMP.ipl": [
+        "a0c31a4593de2ffe6dc734eae06c3794dcec985f53a4e985f6b895789847a26d",
+        2291
+    ],
+    "texdb/SAMPCOL.img": [
+        "163530922231c358427b0d42071166955c4352d83d4e188a00e1479f30b53540",
+        3305472
+    ],
+    "texdb/txd/txd.360.dat": [
+        "7be10b26bda196a817ce958771416696bfeb6589ce812a39b0ad2ec7ba5fa66b",
+        7625578
+    ],
+    "texdb/txd/txd.360.tmb": [
+        "0734ab4af5cecbcc6e6bb0587af8d43d34b149704afc84c55d5f7e14e03fb9e7",
+        31028
+    ],
+    "texdb/txd/txd.360.toc": [
+        "04d7d2ba94ff0d8546c2d41ebc3a55ffa3b54bea07efd23ecd5948810623a5cc",
+        2376
+    ],
+    "texdb/txd/txd.dxt.dat": [
+        "d08499bdfa17b9ffd18bd2fe343e345f566553acf032d129b48470e653a4404a",
+        35508000
+    ],
+    "texdb/txd/txd.dxt.tmb": [
+        "3546c7dbd4948a21aa1c06bf77dfe5a6cef6bf17fb4ad54999b5d96fac83b3bd",
+        91108
+    ],
+    "texdb/txd/txd.dxt.toc": [
+        "ecf78492fb825152efa9cf5949e00ca4280a2048bbf4d93e7fb7e2ce22451a3f",
+        3348
+    ],
+    "texdb/txd/txd.txt": [
+        "4e962dae74bfb45051203423e6fd563ff6f5960fdb3443c941f474cea7d40ec8",
+        56249
+    ],
+    "texdb/txd/txd.txt~": [
+        "553b345162e960e8d10b11ea70cf2de62e71ba0885e3a37b2a678c7ce09484bc",
+        56225
+    ]
+}
